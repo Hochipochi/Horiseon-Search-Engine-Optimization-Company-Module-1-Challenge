@@ -105,16 +105,22 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 35px;
+    /* Added font-size */
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 35px;
+    /* Added font-size */
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 35px;
+    /* Added font-size */
 }
 
 .benefit-lead img {

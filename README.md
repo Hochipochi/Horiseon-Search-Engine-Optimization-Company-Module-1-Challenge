@@ -2,4 +2,5 @@
 This website is for Horiseon services. 
 Fixed an issue in the index.html preventing the header buttons from working.
 Deployed the website onto github pages.
+Added stylers.
 Added comments into style.css
